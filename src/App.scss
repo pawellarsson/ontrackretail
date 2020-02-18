@@ -1,0 +1,30 @@
+@import 'themes/base/colors';
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+.App {
+  text-align: center;
+
+  .col {
+    display: inline-flex;
+
+    .book-box {
+      padding: 1rem;
+
+      .id,
+      .title,
+      .author,
+      .pages,
+      .year,
+      .city,
+      .country {
+        font-size: .8rem;
+      }
+    }
+  }
+
+  .pagination {
+    justify-content: center;
+  }
+}
+
+

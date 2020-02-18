@@ -1,3 +1,19 @@
+Hello on track retail :)
+
+All requirements are there and all function are working.
+However, they not necessary working together.
+In real world they should but there was no requirements for that :)
+
+I split the code as I saw was good for this test.
+Of course it can be more (and less), in bigger apps the code must be
+re-usable as must as possible.
+
+For pagination I used already made one, this because I wanted to show
+that not everything have to be done from scratch, to show different approaches. 
+
+All the best!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
